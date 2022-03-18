@@ -14,7 +14,13 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #C6A089;
+}
+
+.header-text {
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif;
+	text-shadow: 5px 5px black;
 }
 
 .resume-main {
